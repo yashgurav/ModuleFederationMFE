@@ -1,0 +1,4 @@
+- Each of the different micro frontends will be in separate folders: Container, Cart and Products.
+- The different folders will have all the code needed to implement that project and run it in isolation, i.e.,  by itself and as a part of the overall application.
+- Perform **npm install** to get all the node modules installed on all folders.
+- Run the application using **npm start** command in all folders.
